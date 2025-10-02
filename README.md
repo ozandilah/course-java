@@ -9,9 +9,9 @@ Welcome to the Java learning summary repository! This repository contains notes 
 3. [Java Software Tools](JavaTools.md)
 4. [Variables in Java](VarJava.md)
 5. [Statements in Java](Statement.md)
-6. [Lab Design in Java](LabDesign.md)
-7. [Rules in Java](RuleJava.md)
-8. [Variable in Java](VarJava.md)
+6. [Data Types in Java](DataTypes.md)
+7. [Lab Design in Java](LabDesign.md)
+8. [Rules in Java](RuleJava.md)
 
 ## How to Use
 
