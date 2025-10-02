@@ -1,18 +1,23 @@
-# Rangkuman Materi Java
+# Java Learning Summary
 
-Selamat datang di repositori rangkuman materi pembelajaran Java! Repositori ini berisi catatan dan rangkuman dari berbagai sub-materi yang saya pelajari dalam bahasa pemrograman Java. Rangkuman ini dibuat untuk membantu memahami konsep-konsep dasar dan lanjutan dalam Java.
+Welcome to the Java learning summary repository! This repository contains notes and summaries of various sub-materials I have learned in the Java programming language. These summaries are created to help understand basic and advanced concepts in Java.
 
-## Daftar Isi
+## Table of Contents
 
 1. [Object Oriented Programming](OOP.md)
 2. [Software Developer](SoftwareDeveloper.md)
 3. [Java Software Tools](JavaTools.md)
 4. [Variables in Java](VarJava.md)
 5. [Statements in Java](Statement.md)
+6. [Lab Design in Java](LabDesign.md)
+7. [Rules in Java](RuleJava.md)
+8. [Variable in Java](VarJava.md)
 
-## Cara Menggunakan
-- Klik link di atas untuk membaca rangkuman masing-masing sub-materi.
-- Jika ada pertanyaan atau saran, silakan buat issue atau pull request.
+## How to Use
 
-## Lisensi
-Repositori ini dibuat untuk tujuan edukasi. Gunakan dengan bijak.
+- Click the links above to read the summary of each sub-material.
+- If you have questions or suggestions, please create an issue or pull request.
+
+## License
+
+This repository is created for educational purposes. Use wisely.

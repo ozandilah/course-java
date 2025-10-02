@@ -24,7 +24,7 @@ Specifies the data type and name of the entity being declared
 
 **Declaration**: Create a variable with a data type but not assign it a value **(int age;)**
 
-**Defination**: Assign it value **( int age = 25;)**
+**Definition**: Assign it value **( int age = 25;)**
 
 Control Statements
 
@@ -32,7 +32,7 @@ Control the flow of execution
 
 **"if" statements, "while" loops, "for" loops.**
 
-Block  Statements 
+Block Statements 
 
 Enclosed in curly braces
 
